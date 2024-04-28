@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148156783332",
+    "project_id": "gym-automator",
+    "storage_bucket": "gym-automator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148156783332:android:615efdb6d2e9cf9d17eaf1",
+        "android_client_info": {
+          "package_name": "com.paw.gymautomation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd_ucxEWO0Uz3HGHqPxMNgZ7ph1M4ZEN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
